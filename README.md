@@ -33,5 +33,5 @@ This **Power BI dashboard** provides valuable insights into **e-commerce sales, 
 ✅ What are the most profitable locations for sales?  
 ✅ Which payment methods are most frequently used?  
 
-This dashboard helps **e-commerce businesses make data-driven decisions** and optimize their sales strategy! 🚀  
+This dashboard helps **e-commerce businesses make data driven decisions** and optimize their sales strategy! 🚀  
 
